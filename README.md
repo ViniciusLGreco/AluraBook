@@ -1,3 +1,5 @@
+Site Funcionando: https://alura-book-weld.vercel.app/
+
 # AluraBook
 **Descrição do Projeto:**
 O projeto é um site responsivo desenvolvido utilizando HTML e CSS, com base nas vídeo aulas da Alura. Ele foi projetado para funcionar de forma eficaz em diferentes dispositivos, incluindo celular (720px), tablet (1024px) e computador (1728px). O conteúdo do site está centrado no "Alura Book".
@@ -16,3 +18,5 @@ Os usuários podem acessar o site para obter informações sobre o "Alura Book" 
 **Autores do Projeto:**
 O projeto foi desenvolvido por Vinícius Lanaro Greco, enquanto aprendia HTML e CSS por meio das vídeo aulas da Alura. A implementação do site responsivo reflete os conceitos aprendidos durante o curso. 
 Se os usuários precisarem de assistência adicional ou tiverem dúvidas específicas, eles podem contatá-lo através do Instagram para suporte personalizado.
+
+
